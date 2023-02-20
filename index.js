@@ -56,7 +56,11 @@ app.post("/api/login", (req, res)=> {
             } else {
                 res.send({ message: "Password didn't match", code: 'L2'})
             }
-        } else {
+        }
+        // if(!user){
+        //     res.send({message: "User not registered", code: 'L3'})
+        // }
+        else {
             res.send({message: "User not registered", code: 'L3'})
         }
     })
