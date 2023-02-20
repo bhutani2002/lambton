@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c8521261.css",
-    "main.js": "/static/js/main.0c1cc11e.js",
+    "main.css": "/static/css/main.c9b17c4d.css",
+    "main.js": "/static/js/main.f4f45817.js",
     "static/js/787.4bc042f0.chunk.js": "/static/js/787.4bc042f0.chunk.js",
     "static/media/karl-paul-baldacchino-Yr5H7Taaluo-unsplash.jpg": "/static/media/karl-paul-baldacchino-Yr5H7Taaluo-unsplash.71a4623a4085109b2ebb.jpg",
     "static/media/Bluewater_bridge_1.jpg": "/static/media/Bluewater_bridge_1.17f2b2b712b5233c29d1.jpg",
@@ -33,9 +33,11 @@
     "static/media/img-preview-3.jpg": "/static/media/img-preview-3.210cf41bd59517a2a932.jpg",
     "static/media/PlantDetailsback.jpg": "/static/media/PlantDetailsback.a6afd1606f9fdd7b8aa1.jpg",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/LC-removebg-preview.png": "/static/media/LC-removebg-preview.4a0e685f52877b158d16.png",
     "static/media/Toyota-Logo.png": "/static/media/Toyota-Logo.dbfd4c5075801d93fcfc.png",
     "static/media/404.jpg": "/static/media/404.471fd0672810b9a2e635.jpg",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/coming-soon.png": "/static/media/coming-soon.428efac4483bc3f2d658.png",
     "static/media/vince.png": "/static/media/vince.3657d458acd902eba798.png",
     "static/media/Google-HashCode.jpg": "/static/media/Google-HashCode.e2390763ab4b79cbd5ce.jpg",
     "static/media/hand-logo.png": "/static/media/hand-logo.d08cd1eaf22933c5403b.png",
@@ -45,12 +47,12 @@
     "static/media/toyota-electrification-powertrains-BEV.png": "/static/media/toyota-electrification-powertrains-BEV.dae52b0f3f385a75fe82.png",
     "static/media/toyota-hybrid-leaf-icon.svg": "/static/media/toyota-hybrid-leaf-icon.936ed5bdfe52b381aec254d348dff607.svg",
     "index.html": "/index.html",
-    "main.c8521261.css.map": "/static/css/main.c8521261.css.map",
-    "main.0c1cc11e.js.map": "/static/js/main.0c1cc11e.js.map",
+    "main.c9b17c4d.css.map": "/static/css/main.c9b17c4d.css.map",
+    "main.f4f45817.js.map": "/static/js/main.f4f45817.js.map",
     "787.4bc042f0.chunk.js.map": "/static/js/787.4bc042f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8521261.css",
-    "static/js/main.0c1cc11e.js"
+    "static/css/main.c9b17c4d.css",
+    "static/js/main.f4f45817.js"
   ]
 }
