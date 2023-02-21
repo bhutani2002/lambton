@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.8628cafc.css",
-    "main.js": "/static/js/main.5484c027.js",
+    "main.css": "/static/css/main.fc796333.css",
+    "main.js": "/static/js/main.c27e0a96.js",
     "static/js/787.4bc042f0.chunk.js": "/static/js/787.4bc042f0.chunk.js",
     "static/media/karl-paul-baldacchino-Yr5H7Taaluo-unsplash.jpg": "/static/media/karl-paul-baldacchino-Yr5H7Taaluo-unsplash.71a4623a4085109b2ebb.jpg",
     "static/media/Bluewater_bridge_1.jpg": "/static/media/Bluewater_bridge_1.17f2b2b712b5233c29d1.jpg",
     "static/media/toyota-electrification-intro-background-s.jpg": "/static/media/toyota-electrification-intro-background-s.b4d4f680c77bd43739a9.jpg",
     "static/media/toyota-electric.jpg": "/static/media/toyota-electric.6adf9463138c5edf01aa.jpg",
-    "static/media/b23_gb3fv.png": "/static/media/b23_gb3fv.42fd7c1791637d520151.png",
+    "static/media/RAV4-Prime-Vehicle.png": "/static/media/RAV4-Prime-Vehicle.dd5fd09a1254c35d3db5.png",
     "static/media/Project-Benefits.png": "/static/media/Project-Benefits.c17e6e47b962e6ef17ce.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/b23_abzeve.png": "/static/media/b23_abzeve.cb69adea2b26cbf1dfbc.png",
+    "static/media/Background-About.jpeg": "/static/media/Background-About.ad39a3c07686fd948d9d.jpeg",
     "static/media/Chemical_valley_cropped.jpg": "/static/media/Chemical_valley_cropped.64ed842104c4a363b486.jpg",
     "static/media/img-preview-8.jpg": "/static/media/img-preview-8.fc33c67b1ba32f4077a8.jpg",
     "static/media/img-preview-12.jpg": "/static/media/img-preview-12.458fd6df4f0739b6a53d.jpg",
@@ -33,6 +34,7 @@
     "static/media/img-preview-3.jpg": "/static/media/img-preview-3.210cf41bd59517a2a932.jpg",
     "static/media/PlantDetailsback.jpg": "/static/media/PlantDetailsback.a6afd1606f9fdd7b8aa1.jpg",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/Our-Plant.jpeg": "/static/media/Our-Plant.839732abcbbefb5a460b.jpeg",
     "static/media/LC-removebg-preview.png": "/static/media/LC-removebg-preview.4a0e685f52877b158d16.png",
     "static/media/Toyota-Logo.png": "/static/media/Toyota-Logo.dbfd4c5075801d93fcfc.png",
     "static/media/404.jpg": "/static/media/404.471fd0672810b9a2e635.jpg",
@@ -47,12 +49,12 @@
     "static/media/toyota-electrification-powertrains-BEV.png": "/static/media/toyota-electrification-powertrains-BEV.dae52b0f3f385a75fe82.png",
     "static/media/toyota-hybrid-leaf-icon.svg": "/static/media/toyota-hybrid-leaf-icon.936ed5bdfe52b381aec254d348dff607.svg",
     "index.html": "/index.html",
-    "main.8628cafc.css.map": "/static/css/main.8628cafc.css.map",
-    "main.5484c027.js.map": "/static/js/main.5484c027.js.map",
+    "main.fc796333.css.map": "/static/css/main.fc796333.css.map",
+    "main.c27e0a96.js.map": "/static/js/main.c27e0a96.js.map",
     "787.4bc042f0.chunk.js.map": "/static/js/787.4bc042f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8628cafc.css",
-    "static/js/main.5484c027.js"
+    "static/css/main.fc796333.css",
+    "static/js/main.c27e0a96.js"
   ]
 }

@@ -50,18 +50,14 @@ app.get('/*', function(req, res) {
 app.post("/api/login", (req, res)=> {
     const { email, password} = req.body
     User.findOne({ email: email}, (err, user) => {
-        if(user){
-            if(password === user.password ) {
-                res.send({message: "Login Successfull", user: user, code: 'L1'})
-            } else {
-                res.send({ message: "Password didn't match", code: 'L2'})
-            }
-        }
-        // if(!user){
-        //     res.send({message: "User not registered", code: 'L3'})
-        // }
-        else {
+        if(err){
+            res.send({message: "An error occured", code: 'L4'})
+        } else if(!user){
             res.send({message: "User not registered", code: 'L3'})
+        } else if (password !== user.password) {
+            res.send({ message: "Password didn't match", code: 'L2' });
+        } else {
+            res.send({ message: "Login Successful", user: user, code: 'L1' });
         }
     })
 }) 
